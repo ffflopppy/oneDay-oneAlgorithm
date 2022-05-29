@@ -10,4 +10,6 @@ public class Main {
         int[] speeds = new int[]{95, 90, 99, 99, 80, 99};
         Solution.solution_0528_1(progresses, speeds);
     }
+
+
 }
